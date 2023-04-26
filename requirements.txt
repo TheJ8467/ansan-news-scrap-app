@@ -1,8 +1,6 @@
 selenium
-requests
 webdriver_manager
 flask_sqlalchemy
 flask
 psycopg2-binary
-flask_cors
-gunicorn
+dotenv
